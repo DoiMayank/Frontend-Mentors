@@ -1,0 +1,68 @@
+img {
+    border-radius: 50%;
+   
+}
+
+.boxed {
+    width: 50;
+    height: 50;
+    border: 1px solid rgb(20, 9, 9);
+    margin-left: 650px;
+    margin-top: 150px;
+    display: block;
+    text-align: right;
+    line-height: 30px;
+    color: azure;
+    background-color:hsl(0, 8%, 12%);
+    position: absolute;
+    border-radius: 2%;
+    padding-top: 20px;
+
+}
+
+h1 {
+    font-size: large;
+    padding: 0px;
+    font-family: face;
+
+}
+
+h2 {
+    font-size: 80%;
+    text-align: center;
+    padding: 0px;
+    color: rgb(109, 187, 109);
+    line-height: 0px;
+    font-family: InterBold;
+
+}
+h3 {
+    text-align: center;
+    font-family: Regular;
+    font-size: 80%;
+        
+}
+
+h4{
+    text-align: center;
+    font-family: Regular;
+    font-size: 80%;
+}
+
+.media-buttons1 {
+    text-align: center;
+    background-color: rgb(49, 49, 51);
+    border-radius: 6px;
+    padding: 5px 0px;
+    width: 200px;
+    margin-top: 10px;
+    color: aliceblue;
+    font-family: InterBold;
+       
+    
+}
+
+.media-buttons1:hover {
+    background-color: aqua;
+    color: black;
+}
